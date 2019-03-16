@@ -1,0 +1,12 @@
+{
+	"title": "Resim Görüntüleyici",
+	"icon": "icon.png",
+	"resizable": true,
+	"minimizable": true,
+    "width": 600,
+    "height": 400,
+    "params": {
+    	"operation": "simple",
+    	"file_key": "file"
+    }
+}

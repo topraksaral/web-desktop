@@ -1,0 +1,18 @@
+{
+    ".": "explorer",
+    "jpg": "imageviewer",
+    "jpe": "imageviewer",
+    "jpeg": "imageviewer",
+    "png": "imageviewer",
+    "gif": "imageviewer",
+    "bmp": "imageviewer",
+    "mp4": "videoplayer",
+    "mpg": "videoplayer",
+    "avi": "videoplayer",
+    "mov": "videoplayer",
+    "mkv": "videoplayer",
+    "3gp": "videoplayer",
+    "vmw": "videoplayer",
+    "mp3": "musicplayer",
+    "m4a": "musicplayer"
+}

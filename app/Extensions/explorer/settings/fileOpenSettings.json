@@ -1,0 +1,13 @@
+{
+	"title": "Explorer",
+	"icon": "icon.png",
+	"resizable": true,
+	"minimizable": true,
+    "width": 600,
+    "height": 400,
+    "params": {
+    	"operation": "openFolder",
+        "change_title": true,
+    	"file_key": "folder"
+    }
+}
